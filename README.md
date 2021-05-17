@@ -1,23 +1,17 @@
 # Election_Analysis
-##Project Overview
+## Overview of Election Audit:
 
-Analysis of a recent local congressional election results.
+Analysis of a recent local congressional election results based on the csv data provided.
 
-1.Calculate the total number of votes cast.
+## Election-Audit Results:
+![Deliverable 1](https://user-images.githubusercontent.com/82552516/118416482-ec815c00-b67d-11eb-853d-8004fc4ff2db.png)
 
-2.Get a complete list of candidates who received votes.
+* Based on the analysis of the election results, the total votes were 369,711.
+* Jefferson county received 38,855 votes in total which represents 10.5% of the total votes; Denver county received 306,055 votes in total which represents 82.8% of the total votes; Arapahoe county received 24,801 votes which represents 6.7% of the total votes.
+* Denver had the largest number of votes.
+* Charles Casper Stockham received 85,213 votes in total which was 23% of the total votes; Diana Degette received 272,892 votes in total which was 73.8% of the total votes; Raymond Anthony Doane received 11,606 votes in total which was 3.1% of the total votes.
+* Diana DeGette was the winner of the election, she won 272,892 votes in total which was 73.8% of the total votes.
 
-3.Calculate the total number of votes each candidate received.
+## Election-Audit Summary:
+We can utilize this script to analyze majority of the voting events. By modifing the name of the variables and the list we can easily apply this model on other scenarios, such as, voting for infrastructure investment and supplier selection etc.
 
-4.Calculate the percentage of votes each candidate won.
-
-5.Determine the winner of the election based on popular votes.
-
-
-
-
-##Resources
-
-1.Data Sources: election_results.csv
-
-2.Software: Python 3.9.5; Visual Studio Code 1.56.1
